@@ -4,4 +4,4 @@ project(MHE2023)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(MHE2023
-        main.cpp)
+        main.cpp tmp.cpp)
